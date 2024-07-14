@@ -1,12 +1,12 @@
 # Blinkify
-Blinkify: Streamline URL Shortening effortlessly! A sleek Chrome extension that automagically shortens any copied URL. Simply click to shorten and instantly paste the shortened link. No manual input needed! Boost productivity with this modern tool, perfect for quick sharing and saving time.
 
+Blinkify: Streamline URL Shortening effortlessly! A sleek Chrome extension that automagically shortens any copied URL. Simply click to shorten and instantly paste the shortened link. No manual input needed! Boost productivity with this modern tool, perfect for quick sharing and saving time.
 
 ## Features
 
-- Automatically shortens URLs copied to the clipboard.
-- Simple and easy-to-use interface.
-- No need to manually input URLs; just click the extension icon.
+- 🚀 Automatically shortens URLs copied to the clipboard.
+- 🎨 Simple and intuitive interface.
+- ⚡ No need to manually input URLs; just click the extension icon.
 
 ## Installation
 
@@ -19,7 +19,7 @@ To install Blinkify:
 
 ## Usage
 
-Once installed, using Blinkify is straightforward:
+Using Blinkify is straightforward:
 
 1. Copy any URL to your clipboard.
 2. Click on the Blinkify extension icon in your Chrome toolbar.
@@ -31,4 +31,10 @@ Contributions are welcome! Feel free to open issues and pull requests.
 
 ## Support
 
-For support, contact [Your Email Address](mailto:youremail@example.com).
+For support, visit [Darshil Dhandhiya's website](https://www.darshildhandhiya.tech/).
+
+---
+
+Made with ❤️ by Darshil Dhandhiya
+
+[![Website](https://img.shields.io/badge/Visit-Website-blue)](https://www.darshildhandhiya.tech/)
