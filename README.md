@@ -4,9 +4,9 @@ Blinkify: Streamline URL Shortening effortlessly! A sleek Chrome extension that 
 
 ## Features
 
-- 🚀 Automatically shortens URLs copied to the clipboard.
-- 🎨 Simple and intuitive interface.
-- ⚡ No need to manually input URLs; just click the extension icon.
+- Automatically shortens URLs copied to the clipboard.
+- Simple and intuitive interface.
+- No need to manually input URLs; just click the extension icon.
 
 ## Installation
 
